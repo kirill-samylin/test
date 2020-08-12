@@ -1,7 +1,7 @@
 # Привет, я Кирилл!
 Будем знакомы:<br>
 [<img align="left" alt="картинка" width="100px" src="https://i.ibb.co/pdRn8bX/bob.png" />][website] 
-Я начинающий веб-разработчик<br>
+Я junior front-end developer<br>
 Студент Ядндекс.Практикум<br>
 И хороший человек<br>
 <br>
